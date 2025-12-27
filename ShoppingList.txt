@@ -1,4 +1,4 @@
-Shopping List:
+Shopping List: (updated 22,23 by JOD 0
 
 Apples
 Oranges
@@ -19,3 +19,5 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Dragon fruit 
+Berries 
